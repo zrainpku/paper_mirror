@@ -1,0 +1,1 @@
+g++ -L. -I. -lhash -L/usr/local/lib -lopencv_core -lopencv_imgcodecs -lopencv_highgui main.cpp -o main
